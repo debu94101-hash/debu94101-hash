@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=190&section=header&text=DIVYANSHU%20TIWARI&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=B.Tech%20CSE%20(AI%20%26%20ML)%20%7C%202nd%20Year&descAlignY=60&descSize=18&animation=fadeIn&color=0:071A2B,50:0B3B5A,100:102A43" width="100%"/>
+<img src="./banner.png" width="100%">
 
 ### `// Build • Learn • Grow`
 
